@@ -1,0 +1,4 @@
+.DS_Store
+*.local.md
+*.private.md
+local/

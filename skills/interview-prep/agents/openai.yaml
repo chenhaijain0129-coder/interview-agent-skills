@@ -1,0 +1,6 @@
+interface:
+  display_name: "面试准备工作台"
+  short_description: "先询问候选人经历，再生成针对岗位的面试准备材料"
+  default_prompt: "使用 $interview-prep，先询问我的相关经历，再为目标公司和岗位生成面试准备材料。"
+policy:
+  allow_implicit_invocation: true
